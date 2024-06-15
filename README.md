@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jawad Suhail</h1>
-<h3 align="center">Of course! Here's a refined version of your statement without directly mentioning game development: "Dedicated engineering student and web developer, eager to expand skills in any given opportunity where acquired expertise, experience, and education will be utilized towards continued growth and advancement. Passionate about creating innovative and interactive digital experiences."</h3>
+<h3 align="center">"Dedicated engineering student and web developer, eager to expand skills in any given opportunity where acquired expertise, experience, and education will be utilized towards continued growth and advancement. Passionate about creating innovative and interactive digital experiences."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🌱 I’m currently learning **Three.js**
